@@ -1,0 +1,182 @@
+body{
+    background-color:#FBFBFB;
+}
+.nav-item{
+    padding: 10px 15px;
+}
+
+.highlight-text{
+    color:#2C29B8;
+    font-weight: 700;
+}
+
+/* Navbar Button */
+.create-account-btn{
+    padding: 8px 10px;
+    border: 2px solid #b5b5fa;
+    border-radius: 5px;
+    text-align: center;
+}
+.create-account-btn:hover{
+    border: 2px solid #b5b5fa;
+    background: #b5b5fa;
+    transition: 0.3s;
+}
+
+.main-div{
+    margin-top:80px;
+}
+.card{
+    padding: 20px;
+}
+.btn-review{
+    border: 1px solid black;
+    border-radius:6px;
+    padding: 0px 20px;
+    margin-bottom: 30px;
+}
+.btn-review:hover{
+    background-color:#C6C6FA;
+    border: 1px solid #C6C6FA;
+}
+.andUp{
+    padding-left:15px;
+}
+.review-flex{
+    display:inline-block !important;
+    
+}
+
+.reviewStar{
+    width: 18px;
+}
+
+.apply-reviewbtn{
+    border-radius:6px;
+    padding: 0px 20px;
+    margin-bottom: 30px;
+    background-color: #C6C6FA;
+}
+.progress-bar{
+    background-color:#2C29B8;
+}
+.progress{
+    height: 8px;
+}
+
+.search-box{
+    margin-bottom: 30px;
+}
+.submit-query{
+    background-color: #2C29B8;
+    color: white;
+    width: 100%;
+}
+.submit-query:hover{
+    color: white;
+}
+
+.input-group-text{
+    background:none !important;
+    border:none;
+}
+.review-filter-card{
+    border:1px solid #C6C6FA;
+    background-color: #EAEBFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.close-icon{
+    width:20px;
+    height:20px;
+    margin-left: 5px;
+}
+.review-text{
+    line-height: 15px;
+    margin-top:11px;
+    margin-left:12px;
+    padding-left: 10px;
+    border-left: 2px solid #C2809B;
+}
+
+.user-card{
+    position: relative;
+    border: 1px solid #aaaaaa;
+    background-color: white;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.profile-img{
+    width:100%;
+    border-radius: 50%;
+}
+.green-star{
+    position: absolute;
+    top: 38%;
+    right:16%;
+}
+.user-name{
+    font-size:15px;
+    font-weight: 700;
+    color: gray;
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 5px;
+}
+.address{
+    font-size: 10px;
+    font-weight: 700;
+    color: gray;
+    margin-bottom: 5px;
+
+}
+
+.order-icon{
+    width: 15px;
+}
+.card-mini-text{
+    font-size:6px;
+}
+.heart-icon{
+    width: 20px;
+}
+
+.view-profile-btn{
+    border-radius:6px;
+    padding: 0px 16px;
+    background-color: #C6C6FA; 
+    font-size: 12px;
+}
+.heart-btn{
+    border-radius:6px;
+    padding: 0px 10px;
+    background-color: #DEDEDE; 
+}
+
+
+hr{
+    background-color: lightgray;
+}
+
+footer{
+    padding: 10px 0 40px;
+}
+
+.footer-brand{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.footer-manu a{
+    color: rgb(104, 104, 104);
+    padding: 5px 15px;
+    font-size: 14px;
+}
+
+.footer-copyright{
+    color: gray;
+    font-size: 14px;
+}
